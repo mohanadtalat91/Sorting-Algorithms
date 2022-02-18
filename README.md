@@ -10,6 +10,8 @@ This repo contains different sorting algorithms in C programming language
 * [**Radix-Sort**](https://github.com/mohanadtalat91/Sorting-Algorithms/tree/master/Radix-Sort)
 * [**Selection-Sort**](https://github.com/mohanadtalat91/Sorting-Algorithms/tree/master/Selection-Sort)
 
+<!--
+
 # Time complexity 
 
 |Algorithms| The best case | The average case | The worst case | Space complexiy | 
@@ -22,7 +24,7 @@ This repo contains different sorting algorithms in C programming language
 |*Radix sort*| $\Omega$( $n$ $k$ )   | $\Theta$( $n$ $k$ )  | $O$( $n$ $k$ )  | $O$( $n$ $+$ $k$ )  |
 |*Selection sort*| $\Omega$( $n^{2}$ ) | $\Theta$( $n^{2}$ ) | $O$( $n^{2}$ )  | $O$( $1$ ) |
 
-
+-->
 
 ## Contributing
 > Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
