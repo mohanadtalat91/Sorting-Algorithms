@@ -9,7 +9,7 @@ This repo contains different sorting algorithms in C programming language
 * [**Quick-Sort**](https://github.com/mohanadtalat91/Sorting-Algorithms/tree/master/Quick-Sort)
 * [**Radix-Sort**](https://github.com/mohanadtalat91/Sorting-Algorithms/tree/master/Radix-Sort)
 * [**Selection-Sort**](https://github.com/mohanadtalat91/Sorting-Algorithms/tree/master/Selection-Sort)
-
+* [**Bucket-Sort**](https://github.com/mohanadtalat91/Sorting-Algorithms/tree/master/Bucket-Sort)
 <!--
 
 # Time complexity 
